@@ -1,4 +1,4 @@
-Descripción del Proyecto
+Descripción del Trabajo
 
 El proyecto ConsoleAppTiposDeDatos es una aplicación de consola en C# diseñada para demostrar el uso y manejo de diferentes tipos de datos en el lenguaje. Es una herramienta educativa que muestra cómo declarar, inicializar y utilizar variables de distintos tipos, como enteros, flotantes, cadenas de texto, booleanos, entre otros.
 
